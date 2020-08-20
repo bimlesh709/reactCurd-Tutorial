@@ -79,7 +79,7 @@ export default class Test extends React.Component {
                 .then(res => console.log(res.data));
 
         } else {
-            alert("Form has errors.")
+            alert("Form has errors!!!.")
         }
 
 
